@@ -1,0 +1,17 @@
+main{
+    text-align: center;
+}
+
+.container h2{
+    font-size: 30px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    padding: 200px;
+}
+.btn-hero{
+    text-align: center;
+    text-decoration: none;
+    box-sizing: border-box;
+    
+}   
